@@ -6,6 +6,7 @@ In this project we'll create a basic Angular application from scratch. Getting u
 # me_nayeem
 # me_nayeem
 # Live Example
+# inside the main branch
 
 <a href="https://devmountain.github.io/angular-1-mini/">Click Me!</a>
 
